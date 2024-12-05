@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "codium.codium",
+    "sourcegraph.cody-ai",
+    "tabnine.tabnine-vscode",
+    "bito.bito",
+    "blackboxapp.blackbox",
+    "amazonwebservices.amazon-q-vscode"
+  ]
+}
